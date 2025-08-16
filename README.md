@@ -1,7 +1,18 @@
 # ZAM
 
 
-to run the prgram 
+Run
 
-do git clone 
+git clone "HTTPS LINK"
+
+then open the file in unity
+and open Unity Model
+
+save changes by
+
+staging the commits and use git add .
+
+then git commit
+
+then git push
 then open
